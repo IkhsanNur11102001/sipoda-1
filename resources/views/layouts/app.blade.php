@@ -247,6 +247,7 @@
         </div>
       </div>
     </nav>
+
     <!-- End Navbar -->
     <div class="container-fluid py-4">
       <div class="row">
@@ -655,6 +656,7 @@
         </div>
       </footer>
     </div>
+    
   </main>
   <div class="fixed-plugin">
     <a class="fixed-plugin-button text-dark position-fixed px-3 py-2">
@@ -675,6 +677,7 @@
       </div>
       <hr class="horizontal dark my-1">
       <div class="card-body pt-sm-3 pt-0 overflow-auto">
+
         <!-- Sidebar Backgrounds -->
         <div>
           <h6 class="mb-0">Sidebar Colors</h6>
@@ -689,6 +692,7 @@
             <span class="badge filter bg-gradient-danger" data-color="danger" onclick="sidebarColor(this)"></span>
           </div>
         </a>
+
         <!-- Sidenav Type -->
         <div class="mt-3">
           <h6 class="mb-0">Sidenav Type</h6>
